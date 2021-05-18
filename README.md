@@ -1,7 +1,27 @@
-# Custom Crops
-How to make your own growable crops!
+# CUSTOM CROPS
+Project files for the [MCreator](https://mcreator.net/) example and tutorial.
 
-# DOWNLOADS
-| Version | MCreator Build | Forge Build | MinecrafT Build | Download Page | Tutorials |
-| --- | --- | --- | --- | --- | --- |
-| 1.0.0 | 2020.5 | 31.2.0 | 1.15.2 | [Download](https://github.com/MCreator-Examples/custom_crops/releases/tag/1.0.0) | [YouTube](https://youtu.be/yuXvYvy9T68) |
+## OVERVIEW
+Download for MCreator 2020.5 / Minecraft Forge 1.15.2
+
+### LICENCE
+- Open-Source / optional credits
+
+### CREDITS
+Textures have been made by NorthWestTrees Gaming.    
+Procedures have been built by NorthWestTrees Gaming.
+
+### CONTENTS
+* MCreator Workspace
+* MCreator Procedures
+* Project Textures
+
+## LATEST DOWNLOAD
+| [![Download](https://i.imgur.com/Xcxx2Gr.png)](https://github.com/MCreator-Examples/custom_crops/files/6045760/time_based_custom_crops_files.zip) | Download for 1.0.0 |
+| --- | --- |
+
+## TUTORIALS
+* [YouTube: Custom Crops](https://youtu.be/yuXvYvy9T68) - Published on 2021-02-26
+
+## GALLERY
+![Drivable Cars](https://i.imgur.com/vSmMqFX.png)
